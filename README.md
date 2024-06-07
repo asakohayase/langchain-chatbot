@@ -67,13 +67,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 To use the application, run the .py files with the streamlit CLI (after having installed streamlit):
- ```sh
-streamlit run app.py
-  ```
+   ```sh
+   streamlit run app.py
+   ```
 You have to run the Ollama language model in order to use Ollama:
- ```sh
- ollama run llama2
- ```
+   ```sh
+   ollama run llama2
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
