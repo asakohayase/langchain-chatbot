@@ -71,9 +71,9 @@ To use the application, run the .py files with the streamlit CLI (after having i
 streamlit run app.py
   ```
 You have to run the Ollama language model in order to use Ollama:
-    ```sh
-   ollama run llama2
-   ```
+ ```sh
+ ollama run llama2
+ ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
