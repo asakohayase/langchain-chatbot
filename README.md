@@ -58,13 +58,19 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    pip install -r requirements.txt 
    ```
-4. Enter your API in `.env`
+4. Enter your API keys in `.env`
    ```js
    OPENAI_API_KEY='ENTER YOUR API';
    LANGCHAIN_API_KEY='ENTER YOUR API';
    LANGCHAIN_PROJECT='ENTER YOUR PROJECT NAME';
    ```
-5. Run the Ollama language model with the llama2 model
+
+### Usage
+To use the application, run the .py files with the streamlit CLI (after having installed streamlit):
+ ```sh
+streamlit run app.py
+  ```
+You have to run the Ollama language model in order to use Ollama:
     ```sh
    ollama run llama2
    ```
