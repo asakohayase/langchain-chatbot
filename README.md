@@ -1,13 +1,6 @@
 
 <a name="readme-top"></a>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <h3 align="center">Langchain Training</h3>
 </div>
